@@ -1,0 +1,2 @@
+-r requirements-gpu.txt
+streamlit==1.66.1

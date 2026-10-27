@@ -1,0 +1,12 @@
+{
+  "score_method": "max_patch_nearest_l2",
+  "threshold_method": "normal_val_quantile_0.95_linear",
+  "threshold": 0.3869686886668205,
+  "decision_rule": "anomaly_score > threshold",
+  "validation_count": 42,
+  "validation_false_positives": 3,
+  "validation_false_positive_rate": 0.07142857142857142,
+  "score_min": 0.22328124940395355,
+  "score_median": 0.2844769358634949,
+  "score_max": 0.4535939693450928
+}
